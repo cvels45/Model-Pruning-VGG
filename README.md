@@ -1,5 +1,5 @@
 # Model-Pruning
-Goals
+Goals:
 
 The objective of this project is to prune a classic neural network model to reduce both model size and inference latency. The specific goals to achieve this are as follows:
 
